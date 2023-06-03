@@ -7,4 +7,4 @@ umongo==3.0.1
 requests
 bs4
 python-dotenv==0.19.0
-IMDbPY==2022.1.1
+
